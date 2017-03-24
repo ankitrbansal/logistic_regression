@@ -7,7 +7,6 @@ This program implements logistic regression using
 
 Author: Ankit Bansal
 Email: arbansal@umich.edu
-Copyrights reserved 2017
 """
 import numpy as np
 import matplotlib.pyplot as plt
