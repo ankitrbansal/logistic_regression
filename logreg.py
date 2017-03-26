@@ -6,7 +6,6 @@ This program implements logistic regression using
 3) Newton's Method
 
 Author: Ankit Bansal
-Email: arbansal@umich.edu
 """
 import numpy as np
 import matplotlib.pyplot as plt
